@@ -1,0 +1,13 @@
+---
+title: "Projects"
+toc: false
+---
+
+## Project 1
+
+DOWNLOAD [The Effect of Dark Chocolate and Mrthamphetamine on Memory](/The Effect of Dark Chocolate and Mrthamphetamine on Memory.pdf)
+
+## Project 2
+
+DOWNLOAD [NBA Game Predictive Model Report](/NBA Game Predictive Model Report.pdf)
+

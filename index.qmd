@@ -1,11 +1,31 @@
 ---
-title: "personal-website"
+title: "Henry Johnson"
+about:
+  template: trestles
+  image: propic.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/henlj
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/henry-johnson-310a81297/"
+    - text: Email
+      url: "mailto:henryjojo@g.ucla.edu"
+      icon: inbox-fill
+toc: false
 ---
 
-This is a Quarto website.
+Henry Johnson is a Statistics and Data Science student graduating in 2025 from UCLA with experience as a data engineer in the aerospace and defense industry, focusing on international business analytics and solutions.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA
+Bachelor's in Statistics & Data Science | September 2023 - June 2025
+
+## Experience
+
+DOWNLOAD [Resume](/Resume.pdf)
+
+General Atomics | Data Engineer Intern | Summer 2024, 10-Week Internship (Returning)
+
+General Atomics | Data Engineer Intern | Summer 2023, 10-Week Internship

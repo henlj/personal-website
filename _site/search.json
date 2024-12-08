@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal-website",
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "DOWNLOAD The Effect of Dark Chocolate and Mrthamphetamine on Memory"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Projects.html#project-1",
+    "href": "Projects.html#project-1",
+    "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "DOWNLOAD The Effect of Dark Chocolate and Mrthamphetamine on Memory"
+  },
+  {
+    "objectID": "Projects.html#project-2",
+    "href": "Projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\nDOWNLOAD NBA Game Predictive Model Report"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Henry Johnson",
+    "section": "",
+    "text": "Henry Johnson is a Statistics and Data Science student graduating in 2025 from UCLA with experience as a data engineer in the aerospace and defense industry, focusing on international business analytics and solutions."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Henry Johnson",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA Bachelor’s in Statistics & Data Science | September 2023 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Henry Johnson",
+    "section": "Experience",
+    "text": "Experience\nDOWNLOAD Resume\nGeneral Atomics | Data Engineer Intern | Summer 2024, 10-Week Internship (Returning)\nGeneral Atomics | Data Engineer Intern | Summer 2023, 10-Week Internship"
   }
 ]
